@@ -31,11 +31,8 @@ Missed appointments can lead to wasted resources, lost revenue, and delayed care
   - No-Show Trends by Weekday
   - Impact of Waiting Days
   - Effectiveness of SMS Reminders
-  - No-Show Patterns by Hypertension, Diabetes, Neighborhood
+  - No-Show Patterns by Hypertension, Diabetes.
 
-- *Interactive Slicers:* Gender, SMS Received, Chronic Conditions
-
----
 
 ## 💡 Recommendations
 
